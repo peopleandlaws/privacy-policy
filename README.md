@@ -14,8 +14,7 @@ The purpose of this repository is to make our Privacy Policy publicly accessible
 
 You can view the publicly accessible Privacy Policy at:
 
-👉 **https://<your-github-username>.github.io/privacy-policy/**  
-(Replace `<your-github-username>` with your actual GitHub username.)
+👉 **https://peopleandlaws.github.io/privacy-policy/**
 
 This link is used for consent-based data collection across our digital platforms.
 
